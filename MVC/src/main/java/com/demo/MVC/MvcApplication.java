@@ -1,4 +1,4 @@
-package com.demo.Dao;
+package com.demo.MVC;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
